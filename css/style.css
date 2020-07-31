@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(26, 24, 39);
+    color: whitesmoke;
+}
+h3 {
+    margin-top: 20px;
+}
+input {
+    margin-top: 40px;
+}
+#prevGuesses {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.guess {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#resetButton {
+    margin-top: 20px;
+}
+
+.high {
+    color: red;
+}
+
+.low {
+    color: blue;
+}
+
+.winner {
+    color: green;
+}
+
+
+
+/* h1 {
+ 
+    text-align: center;
+    font-size: 60px 
+  }
+  body {
+    background-color: #28336496;
+  }
+  #container {
+    background-color: #181c46;
+    border: 5px solid #3b085e;
+    height: 750px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+    
+  }
+  
+  p {
+    color: white;
+    font-size: 40px
+  }
+  
+  #input {
+    width: 100px;
+    margin: 25px auto;
+  }
+  
+  #btn {
+    margin: 25px auto auto 5px;
+  }
+
+  #reset button {
+    margin: 25px auto auto 5px;
+  } */
